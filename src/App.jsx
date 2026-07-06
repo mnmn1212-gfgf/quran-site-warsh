@@ -1217,7 +1217,7 @@ export default function QuranTranslationLandingPage() {
                     <div>
                       <p className="text-xs text-white/60 sm:text-sm">اللغة الحالية</p>
                       <h3 className="mt-1 text-xl font-bold sm:text-2xl">
-                        القرآن باللغة العربية
+                        القرآن برواية ورش عن نافع
                       </h3>
                     </div>
                     <div className="w-fit rounded-2xl border border-[#D6A24A]/25 bg-[#D6A24A]/15 px-4 py-2 text-xs text-[#F5E1A3] sm:text-sm">
